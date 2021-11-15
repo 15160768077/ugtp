@@ -6,6 +6,7 @@ import ugtp.utils.common.FastDFSFile;
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.sql.SQLOutput;
 
 /**
  * 实现FastDFS文件管理
@@ -14,6 +15,9 @@ import java.io.InputStream;
  * @date 2021/11/16 6:12
  */
 public class FastDFSUtil {
+    public static void main(String[] args) {
+        System.out.println("测试");
+    }
 
 //    /**
 //     * 加载Tracker连接信息
